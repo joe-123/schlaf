@@ -1,0 +1,3 @@
+[submodule ".\\themes\\slick_noBlog"]
+	path = .\\themes\\slick_noBlog
+	url = https://github.com/joe-123/slick_noBlog
